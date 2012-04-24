@@ -2,6 +2,10 @@
     "name": "offlineclock",
     "version": "0.0.1",
     "dependencies": {
-        "express": "2.5.2"
+        "express": "3.0.0alpha1"
+    },
+    "engines": {
+        "node": "0.6.x",
+        "npm":  "1.0.x"
     }
 }
