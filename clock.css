@@ -1,3 +1,4 @@
 output {
-    font: 2em sans-serif red;
+    font: 2em sans-serif;
+    color: red;
 }
