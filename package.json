@@ -2,6 +2,6 @@
     "name": "offlineclock",
     "version": "0.0.1",
     "dependencies": {
-        "express": "3.0.0alpha1"
+        "express": "2.5.2"
     }
 }
