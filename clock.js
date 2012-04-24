@@ -1,6 +1,4 @@
-"use strict";
-
 function ticktack() {
-    document.getElementById('clock').textContext = new Date();
-	setTimeout(ticktack, 100);
-}
+    document.getElementById('clock').textContent = new Date();
+    setTimeout(ticktack, 100);
+} 
