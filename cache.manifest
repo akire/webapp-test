@@ -1,5 +1,14 @@
 CACHE MANIFEST
-# rev 1
+# rev 2
+
+CACHE:
 /clock.html
 /clock.css
 /clock.js
+/no_network.html
+
+NETWORK:
+/not_cached.html
+
+FALLBACK:
+/not_cached.html /no_network.html
