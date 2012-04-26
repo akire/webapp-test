@@ -1,8 +1,8 @@
 CACHE MANIFEST
-# rev 4
+# rev 5
 
 FALLBACK:
-/not_cached.html /no_network.html
+/ /no_network.html
 
 NETWORK:
 /not_cached.html
