@@ -4,9 +4,6 @@ CACHE MANIFEST
 FALLBACK:
 / /no_network.html
 
-NETWORK:
-/not_cached.html
-
 CACHE:
 /clock.html
 /clock.css
